@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>curriculo de Leticia</title>
+</head>
+<body background=b.jpg>
+<h1 align=center>CURRICULUM VITAE</h1>
+<center><img src=c.jpg width=30%></center>
+<center><h2>LETÍCIA FARIAS VERAS</h2></center>
+<bgsound src=amaury.mp3>
+<hr>
+<h3><i>DADOS PESSOAIS:</I></H3>
+<ul>
+<li>ENDEREÇO: RUA JOSÉ SOBRINHO DA SILVA, N 205, TERESOPOLIS, ALAGOINHAS
+<li>CELULAR: (75) 9 9239-3294
+<li>EMAIL:LETICIAFARIASVERAS@OUTLOOK.COM
+</ul>
+<br>
+<h3><i>ESCOLARIDADE:</i></h3>
+<ul>
+<li>ENSINO MÉDIO COMPLETO - <a href=https://portal.colegiosantissimo.com.br/>COLÉGIO SANTÍSSIMO SACRAMENTO </a> - 2009 A 2023
+<li>ENGENHARIA DE SOFTWARE - <a href=https://portal.uneb.br/> UNEB</a> - ATUAL
+</ul>
+<br>
+<h3><i>CURSOS EXTRAS:</i></h3>
+<ul>
+<li>PACOTE OFFICE - UDEMY - 2024
+</ul>
+<br>
+<h3><i>EXPERIÊNCIAS PROFISSIONAIS:</i></h3>
+<ul>
+<li>AUXILIAR ADMINISTRATIVO - LOJAS A LÂMPADA - ATUAL
+</ul>
+
+</body>
+</html>
